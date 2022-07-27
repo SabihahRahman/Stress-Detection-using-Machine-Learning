@@ -1,7 +1,7 @@
 # Stress-Detection-using-Machine-Learning
 
 # Aim: 
-Project to develop a live Stress Detection API using Deep Learning, CNN and Flask 
+To develop a live Stress Detection API using Deep Learning, CNN and Flask 
 
 # Dataset:
   Keras FER2013 dataset
@@ -10,7 +10,7 @@ Project to develop a live Stress Detection API using Deep Learning, CNN and Flas
   1. Keras
   2. OpenCV
   3. Dlib
-  4.imutils
+  4. imutils
   5. Flask
   
 # Resources:
